@@ -12,6 +12,8 @@ If you need to contact your respective competent authority after completing the 
 
 For a better experience, you can also visit the dedicated version of the tool here: https://apps.friscoproject.eu
 
+![Questionnaire preview]((https://github.com/friscoproject/frisco-toolbox/blob/main/readme-img/questionnaire.png) "Questionnaire preview")
+
 # [FRISCO] Process Map
 FRISCO’s process map is an interactive tool that structures and describes the entire compliance process with the TCO Regulation and related duties for HSPs in a holistic way, so to say from the exposure to terrorist content to the transparency reports. This tool, focused on HSPs’ operational needs, provides a precise breakdown of the TCO Regulation, step by step, and is based on a holistic and chronological approach to compliance. The process is displayed gradually, thanks to interactive and/or animated transitions, and the whole map can be downloaded entirely in the end. Legend, colour code and steps increase ergonomics and user’s experience. Finally, more information, resources and tools are made available via the tool.
 
