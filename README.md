@@ -22,3 +22,5 @@ For clarifications on definitions for key terms in the TCO (e.g., Who qualifies 
 If you need to contact your respective competent authority after completing the process map, you can find your respective contact details HERE
 
 For a better experience, you can also visit the dedicated version of the tool here: https://apps.friscoproject.eu/flowchart
+
+![Process map preview](https://github.com/friscoproject/frisco-toolbox/blob/main/readme-img/procmap.png)
