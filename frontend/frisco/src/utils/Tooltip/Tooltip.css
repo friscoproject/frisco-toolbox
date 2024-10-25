@@ -1,0 +1,65 @@
+.flexible-width {
+    max-width: 2rem;
+    max-height: 2rem;
+    opacity: 1;
+    animation: fadeIn 1s;
+    transition: all 1s ease-in-out;
+}
+
+.flexible-width:hover {
+    max-width: 300px;
+    max-height: 500px;
+}
+
+.opacity-transition {
+    animation: fadeIn 1s;
+    max-width: 100%;
+    opacity: 1;
+    height: auto;
+    overflow-y: visible;
+}
+
+
+
+.opacity-transition-reversed {
+    animation: fadeOut 1s;
+    opacity: none;
+    max-width: 0;
+    overflow-y: hidden;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeOut {
+    0% {
+        opacity: 1;
+        max-width: 100%;
+        display: inline-block;
+    }
+
+    40% {
+        opacity: 0;
+        max-width: 100%;
+
+    }
+    41% {
+        display: none;
+    }
+
+    100% {
+        opacity: 0;
+        max-width: 0px;
+    }
+}
