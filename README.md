@@ -24,3 +24,6 @@ If you need to contact your respective competent authority after completing the 
 For a better experience, you can also visit the dedicated version of the tool here: https://apps.friscoproject.eu/flowchart
 
 ![Process map preview](https://github.com/friscoproject/frisco-toolbox/blob/main/readme-img/procmap.png)
+
+#
+This project has received funding from the European Union's Internal Security Fund (ISF) programme under Grant Agreement No 101080100. Views and opinions expressed are those of the author(s) only and do not necessarily reflect those of the European Union or the European Commission. Neither the European Union nor the granting authority can be held responsible for them.
